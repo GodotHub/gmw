@@ -1,8 +1,8 @@
 ## GypeScript  
   
-Godot Material-design style UI Widget/Node  
+Godot Material-design style UI Widget  
   
-[English](https://github.com/godothub/gmw) &nbsp;&nbsp;&nbsp;&nbsp;[中文](https://github.com/godothub/gmw/blob/master/README.ZH.md)  
+[English](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[中文](./README.ZH.md)  
 
 ## Quick Start
 

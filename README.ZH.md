@@ -1,8 +1,8 @@
 ## GMW  
   
-Godot游戏引擎Material Design风格的UI组件/节点  
+Godot游戏引擎Material Design风格的UI组件  
   
-[English](https://github.com/godothub/gmw) &nbsp;&nbsp;&nbsp;&nbsp;[中文](https://github.com/godothub/gmw/blob/master/README.ZH.md)  
+[English](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[中文](./README.ZH.md)  
 
 ## 快速开始
 
